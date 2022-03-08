@@ -1,0 +1,43 @@
+Assembly	velvetg_on_data_22__Contigs
+# contigs (>= 0 bp)	130
+# contigs (>= 1000 bp)	30
+Total length (>= 0 bp)	299966
+Total length (>= 1000 bp)	211152
+# contigs	31
+Largest contig	24432
+Total length	199920
+Reference length	100094
+GC (%)	39.64
+Reference GC (%)	29.43
+N50	5311
+NG50	4764
+N75	3711
+NG75	6776
+L50	42
+LG50	14
+L75	27
+LG75	21
+# misassemblies	1
+# misassembled contigs	2
+Misassembled contigs length	6823
+# local misassemblies	0
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	92.965
+Duplication ratio	1.002
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	2.06
+# indels per 100 kbp	1.03
+Largest alignment	21132
+Total aligned length	211176
+NA50	5770
+NGA50	6229
+NA75	4995
+NGA75	4991
+LA50	49
+LGA50	14
+LA75	12
+LGA75	19
