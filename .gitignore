@@ -1,0 +1,6 @@
+.DS_Store
+.snakemake
+images/avatars/
+data/
+images/
+src/.ipynb_checkpoints/

@@ -1,0 +1,14 @@
+name: galaxy-training-material-stats
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- jupyter
+- matplotlib
+- pandas
+- pygithub
+- pyyaml
+- requests
+- pillow
+- emoji
