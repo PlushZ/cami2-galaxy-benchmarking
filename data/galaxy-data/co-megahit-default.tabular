@@ -1,0 +1,29 @@
+Assembly	megahit-v129-default-short-reads-assembly
+# contigs (>= 0 bp)	1173522
+# contigs (>= 1000 bp)	274553
+Total length (>= 0 bp)	1543487975
+Total length (>= 1000 bp)	1068550599
+# contigs	693807
+Largest contig	1394140
+Total length	1356097319
+Reference length	52753808
+N50	3854
+N75	1147
+L50	46249
+L75	226405
+# misassemblies	535
+# misassembled contigs	427
+Misassembled contigs length	8492833
+# local misassemblies	676
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	1010
+# unaligned contigs	676807 + 4372 part
+Unaligned length	1302902405
+Genome fraction (%)	88.526
+Duplication ratio	1.175
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1194.38
+# indels per 100 kbp	39.73
+Largest alignment	649642
+Total aligned length	52184724

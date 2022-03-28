@@ -1,0 +1,29 @@
+Assembly	CAMI2_Abyss_v234_k96_-_scaffolds	CAMI2_Abyss_v234_k96_-_contigs
+# contigs (>= 0 bp)	193738	237305
+# contigs (>= 1000 bp)	20886	28542
+Total length (>= 0 bp)	169831567	173183672
+Total length (>= 1000 bp)	125044391	117127021
+# contigs	37955	51870
+Largest contig	1523356	1523356
+Total length	136822460	133398599
+Reference length	64021047	64021047
+N50	11595	5158
+N75	3077	1818
+L50	1621	4528
+L75	7688	15814
+# misassemblies	736	511
+# misassembled contigs	480	355
+Misassembled contigs length	10084154	6009853
+# local misassemblies	4819	676
+# scaffold gap ext. mis.	0	0
+# scaffold gap loc. mis.	3938	2640
+# unaligned mis. contigs	340	338
+# unaligned contigs	27932 + 1270 part	37426 + 1217 part
+Unaligned length	91877291	89483634
+Genome fraction (%)	69.680	69.228
+Duplication ratio	1.122	1.091
+# N's per 100 kbp	2062.12	1887.87
+# mismatches per 100 kbp	1723.29	1490.20
+# indels per 100 kbp	80.09	67.73
+Largest alignment	1523356	1523356
+Total aligned length	42176765	41557478

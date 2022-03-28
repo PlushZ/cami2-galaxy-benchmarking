@@ -1,0 +1,29 @@
+Assembly	metaflye-v29-nanoraw-long-reads-consensus
+# contigs (>= 0 bp)	327754
+# contigs (>= 1000 bp)	322237
+Total length (>= 0 bp)	1665076386
+Total length (>= 1000 bp)	1661147500
+# contigs	327724
+Largest contig	160549
+Total length	1665062400
+Reference length	48560913
+N50	5517
+N75	4367
+L50	112696
+L75	197434
+# misassemblies	131
+# misassembled contigs	118
+Misassembled contigs length	780195
+# local misassemblies	504
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	16165
+# unaligned contigs	291878 + 23421 part
+Unaligned length	1589503362
+Genome fraction (%)	61.819
+Duplication ratio	2.617
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	1006.66
+# indels per 100 kbp	7992.31
+Largest alignment	20101
+Total aligned length	74814081
